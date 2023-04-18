@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+ input:focus{
+    background-color: #fae5ad;
+
+ }
+
+ html{
+    width: 750px; height: 750px;
+    background-color: rgb(253, 253, 253);
+
+ }
+
+ body{
+    width: 375px; height: 375px;
+    margin: auto; background-color: orange;
+    padding: 30px;
+ }
